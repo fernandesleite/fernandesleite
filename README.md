@@ -1,8 +1,8 @@
 # Hello there, I'm Bruno! 👋🏾
 
-I'm Bruno Fernandes, a tech enthusiast passionate about technologies and problem solving. Love to learn and contribute.
+I'm Bruno Fernandes, a Android Developer passionate about technologies and problem solving. Love to learn and contribute.
 
-Currently studying and applying ***Android Development*** and ***Kotlin*** on the projects I've been working on.
+Currently applying ***Android Development*** and ***Kotlin/Java*** on the projects I've been working on.
 
 ### Reach me out
 
